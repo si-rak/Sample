@@ -1,4 +1,3 @@
-
 .contrib {
   width: 80%;
   margin: 80px auto;
@@ -34,7 +33,9 @@
   border-radius: 6%;
   padding: 0 10px;
   margin-bottom: 10px;
+
 }
+
 
 .imp-hd {
   text-align: center;
@@ -219,7 +220,7 @@
   .donate-txt h4 {
     font-size: smaller;
     width: 50%;
-    text-align:justify;
+    text-align: justify;
   }
 
 }

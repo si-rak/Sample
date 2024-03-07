@@ -7,6 +7,7 @@
 .contact-boxn {
   display: flex;
   margin-top: 50px;
+
 }
 
 .contact-tleft {
@@ -15,6 +16,7 @@
   padding: 40px;
   border-radius: 20px;
   margin-right: 10px;
+
 }
 
 .contact-tleft a {
@@ -32,6 +34,7 @@
   background: #ecfafc;
   border-radius: 20px;
   margin-left: 10px;
+
 
 }
 

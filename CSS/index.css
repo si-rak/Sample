@@ -164,12 +164,14 @@ nav .fa {
   text-align: center;
   width: 60%;
   margin-left: 9%;
+  transform-style: preserve-3d;
 }
 
 .hero-text h1 {
   font-size: 48px;
   color: rgb(218, 218, 218);
   -webkit-text-stroke: 3px #0B1E3A;
+  transform: translateX(-50%) translateY(-50%) translateZ(50%);
 }
 
 .hero-text h1:hover {
@@ -310,6 +312,7 @@ nav .fa {
   max-width: 100%;
   height: 280px;
   border-radius: 8px;
+
 }
 
 .n-col {
