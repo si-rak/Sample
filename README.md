@@ -38,7 +38,7 @@ Contributions to this project are welcome! If you have suggestions or ideas for 
 1. #### Fork this repository:
 - Click the "Fork" button on the top right of this page.
 2. #### Clone your forked repository to your local machine:
-  git clone https://github.com/yourusername/science-museum-website.git
+  (https://github.com/si-rak/Semester-Project-1.git)
 
 
 
