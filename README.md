@@ -71,6 +71,11 @@ If you have any questions, suggestions, or would like to collaborate, feel free 
 - Email: zebeaman3@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sirak-getachew-a422a7208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
+## Acknowledgments
+- A big thank you to my instructors for their guidance throughout this project.
+- Thanks to classmates for their support and feedback.
+
+
 
 
 
