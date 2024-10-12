@@ -23,6 +23,7 @@ No additional software is required. All you need is a web browser to view the we
 
 ### Installation
 To run this website locally, follow these steps:
+Clone the repository: https://github.com/si-rak/Semester-Project-1.git
 
 
 
