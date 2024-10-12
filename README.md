@@ -25,6 +25,22 @@ No additional software is required. All you need is a web browser to view the we
 To run this website locally, follow these steps:
 Clone the repository: https://github.com/si-rak/Semester-Project-1.git
 
+### Running the Website
+This project is built using only HTML, CSS, and JavaScript. You can simply open the HTML file in any browser to see the website in action:
+
+1. Download or Clone the Repository.
+2. Open index.html in your preferred browser.
+
+ ## Contributing
+Contributions to this project are welcome! If you have suggestions or ideas for improvement, please feel free to contribute.
+
+### How to Contribute
+1. #### Fork this repository:
+- Click the "Fork" button on the top right of this page.
+2. #### Clone your forked repository to your local machine:
+  git clone https://github.com/yourusername/science-museum-website.git
+
+
 
 
 
