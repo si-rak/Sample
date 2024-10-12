@@ -38,7 +38,10 @@ Contributions to this project are welcome! If you have suggestions or ideas for 
 1. #### Fork this repository:
 - Click the "Fork" button on the top right of this page.
 
-2. #### Clone your forked repository to your local machine: https://github.com/si-rak/Semester-Project-1.git
+2. #### Clone your forked repository to your local machine: 
+     ```bash
+     git clone https://github.com/si-rak/HTML-CSS-course-assignment.git
+     ```
 
 3. #### Create a new branch for your feature:git checkout -b feature-branch
 
