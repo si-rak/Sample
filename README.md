@@ -38,7 +38,25 @@ Contributions to this project are welcome! If you have suggestions or ideas for 
 1. #### Fork this repository:
 - Click the "Fork" button on the top right of this page.
 2. #### Clone your forked repository to your local machine:
-  (https://github.com/si-rak/Semester-Project-1.git)
+  https://github.com/si-rak/Semester-Project-1.git
+3. #### Create a new branch for your feature:
+  git checkout -b feature-branch
+4. #### Make your changes and improvements to the project (HTML, CSS, or JS files).
+5. #### Commit your changes:
+  git add .
+  git commit -m
+6. #### Push to GitHub:
+  git push origin feature-branch
+7. #### Create a Pull Request:
+- Go to your forked repository on GitHub and open a Pull Request.
+- Provide a description of the changes you've made.
+
+## Contact
+If you have any questions, suggestions, or would like to collaborate, feel free to reach out:
+
+- Email:zebeaman3@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/sirak-getachew-a422a7208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
 
 
