@@ -40,20 +40,27 @@ Contributions to this project are welcome! If you have suggestions or ideas for 
 
 2. #### Clone your forked repository to your local machine: 
      ```bash
-     git clone https://github.com/si-rak/HTML-CSS-course-assignment.git
+     (https://github.com/si-rak/Semester-Project-1.git)
      ```
 
-3. #### Create a new branch for your feature:git checkout -b feature-branch
+3. #### Create a new branch for your feature:
+    ```bash
+     git checkout -b feature-branch
+     ```
 
 4. #### Make your changes and improvements to the project (HTML, CSS, or JS files).
 
 5. #### Commit your changes:
-  git add .
-  git commit -m
+   ```bash
+      git commit -m
+      git add .
+     ``` 
 
 6. #### Push to GitHub:
-  git push origin feature-branch
-
+   ```bash
+     git push origin feature-branch
+     ``` 
+  
 7. #### Create a Pull Request:
 - Go to your forked repository on GitHub and open a Pull Request.
 - Provide a description of the changes you've made.
