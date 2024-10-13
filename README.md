@@ -12,10 +12,10 @@ This project is a semester assignment focused on building a website for a Childr
 - JavaScript: Added functionality for basic interactivity.
 
 ## Features
-Responsive Design: The website is fully responsive and works seamlessly across different devices (desktops, tablets, and mobile phones).
-Interactive Elements: Some interactive components (like buttons and modals) are powered by JavaScript.
-Educational Content: Focused on presenting science topics in a child-friendly, easy-to-understand way.
-Clear Navigation: Simple and intuitive navigation for a better user experience.
+- Responsive Design: The website is fully responsive and works seamlessly across different devices (desktops, tablets, and mobile phones).
+- Interactive Elements: Some interactive components (like buttons and modals) are powered by JavaScript.
+- Educational Content: Focused on presenting science topics in a child-friendly, easy-to-understand way.
+- Clear Navigation: Simple and intuitive navigation for a better user experience.
 
 ## Getting Started
 ### Prerequisites
