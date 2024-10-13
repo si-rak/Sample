@@ -52,7 +52,7 @@ Contributions to this project are welcome! If you have suggestions or ideas for 
 
 5. #### Commit your changes:
    ```bash
-     git add .
+    git add .
     git commit -m "Short description of changes"
      ``` 
 
